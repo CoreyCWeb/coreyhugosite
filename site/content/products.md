@@ -1,5 +1,5 @@
 ---
-title: My Coffee
+title: Home
 type: products
 page: "/products.html"
 image: "/img/products/jumbotron.jpg"
