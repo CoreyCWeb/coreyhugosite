@@ -1,6 +1,4 @@
 ---
-pages:
-- portfolio.md
 hide_body: true
 fields:
 - name: title
