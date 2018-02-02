@@ -1,6 +1,6 @@
 ---
-title: Me
-type: products
+title: About Me
+type: about
 page: "/products.html"
 image: "/img/products/jumbotron.jpg"
 heading: Hey there
